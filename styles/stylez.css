@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+img {
+    width: 75%;
+    height: auto;
+    text-align: center;
+}
+.ibtbf {
+    font-style: italic;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.chunk {
+    font-weight: bold;
+    font-size: small;
+}
+.homebg {
+    background-image: url('../images/background.jpg');
+}
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+.yessir {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+}
+.colored {
+    color: red;
+}
